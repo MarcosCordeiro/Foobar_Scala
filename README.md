@@ -3,5 +3,5 @@
 To run FooBarCal, execute command below:
 
 ```
-scala scala FooBarCalc [number]
+scala FooBarCalc [number]
 ```
